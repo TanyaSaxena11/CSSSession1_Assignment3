@@ -1,0 +1,64 @@
+.maindiv{
+	height:620px;
+	width:380px;
+	background-color:#3366ff;
+	margin:auto;
+	margin-top: 20px;
+}
+
+p{
+	color: white;
+	padding-top: 10px;
+	padding-left:10px;
+	margin-bottom: 2px;
+}
+
+#Details{
+	display:inline-block;				
+	background-color: #cce6ff;		
+	height: 10px; 
+	width:320px;
+	margin-left: 20px;
+	padding: 5px 10px 20px 10px;
+	border-radius: 7px;
+	border: 1px solid white;
+	margin-bottom: 2px;
+}
+
+.inputtype{
+	 width:200px;
+	 height:25px;
+	 background-color:white;
+	 color:grey;
+}
+#AddDetails{
+	display:inline-block;				
+	background-color: #cce6ff;		
+	height: 50px; 
+	width:320px;
+	margin-left: 20px;
+	padding: 10px 10px 24px 10px;
+	border-radius: 7px;
+	border: 1px solid white;
+	margin-bottom: 2px;
+}	 
+#CardDetails{
+	display:inline-block;				
+	background-color: #cce6ff;		
+	height: 18px; 
+	width:320px;
+	margin-left: 20px;
+	padding: 4px 10px 24px 10px;
+	border-radius: 7px;
+	border: 1px solid white;
+	margin-bottom: 2px;
+}
+.submit{
+	margin-left: 150px;
+	margin-top: 15px;
+	color: white;
+	background-color: #000099;
+	border-radius: 7px;
+	width:70px;
+	border: 1px solid blue;
+}
